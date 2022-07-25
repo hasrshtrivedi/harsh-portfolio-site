@@ -1,0 +1,1 @@
+1.) When we want to direct to some line lets say 45 we can do that by pressing ctrl+p -> then after press (:12)--> it turns to u on line number 12
