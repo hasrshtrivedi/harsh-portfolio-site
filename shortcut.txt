@@ -1,1 +1,4 @@
 1.) When we want to direct to some line lets say 45 we can do that by pressing ctrl+p -> then after press (:12)--> it turns to u on line number 12
+2.)) Sare gama pa da neesha !!!
+3..) crl+shift+p -->beautfy and other extensions
+!!hello brother!!
